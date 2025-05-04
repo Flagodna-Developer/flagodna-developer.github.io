@@ -1,0 +1,11 @@
+# _config.yml
+
+# Basic settings
+title: FastiShare
+description: Fast. File Sharing
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Site metadata
+url: "https://flagodna-developer.github.io"
+author: "FlagoDNA Developer Labs"
