@@ -104,6 +104,13 @@ The widget automatically updates:
 
 You can also manually refresh the widget anytime from the app settings.
 
+## Screenshots
+
+<img src="screenshots/1.jpg" height="400"/>
+<img src="screenshots/2.jpg" height="400"/>
+<img src="screenshots/3.jpg" height="400"/>
+<img src="screenshots/4.jpg" height="400"/>
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
