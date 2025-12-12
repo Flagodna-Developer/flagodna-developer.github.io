@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "MTA ONE",
+    "subtitle": "MTA TV, Radio Persada dalam satu aplikasi lengkap",
+    "packageName": "com.flagodna.mtaoneversi2",
+    "playStoreUrl": "market://details?id=com.flagodna.mtaoneversi2",
+    "imageUrl": "https://play-lh.googleusercontent.com/B8pw2dhYH0T00y2NHy-azJG0OodzCpet4UlIFfMSV5OtmCPeyQSaI4fi5yPJIDL4gGU=s64-rw",
+    "category": "Quran",
+    "priority": 10
+  },
+  {
+    "id": "2",
+    "name": "Hadis Ku",
+    "subtitle": "Hadist lengkap 14 imam dengan AI chatbot",
+    "packageName": "com.flagodna.hadisku",
+    "playStoreUrl": "market://details?id=com.flagodna.hadisku",
+    "imageUrl": "https://play-lh.googleusercontent.com/GnOMgcv0KdC0VPmziw_nhT8S3MHtNwFiD0qg6oFgUUICSKH62FgVrqxC8_2cnOs03qGt=s64-rw",
+    "category": "Prayer",
+    "priority": 9
+  },
+  {
+    "id": "3",
+    "name": "AmalanKu",
+    "subtitle": "Amalan harian muslim lengkap dengan pengingat",
+    "packageName": "com.flagodna.amalanku",
+    "playStoreUrl": "market://details?id=com.flagodna.amalanku",
+    "imageUrl": "https://play-lh.googleusercontent.com/OEX4m2ev-W9474lCQFO_YaESuhENUTnjEf9aIbZqNL1RIBOAuHXK98tnelKXXotKAZkr7_Gkg3nRU5nZdea2ZA=s64-rw",
+    "category": "Prayer",
+    "priority": 9
+  },
+  {
+    "id": "4",
+    "name": "Fasti Quran",
+    "subtitle": "Al Quran lengkap dengan terjemahan dan tafsir. Termasuk terjemahan Depag 1990.",
+    "packageName": "com.flagodna.fastiquran",
+    "playStoreUrl": "market://details?id=com.flagodna.fastiquran",
+    "imageUrl": "https://play-lh.googleusercontent.com/dcNZr7J5hL3m-XsbFDDtLCWnvqxMgmw5SyQXIidUjIuujvJ3p3-x1VZnF97MYjsobOg=s64-rw",
+    "category": "Prayer",
+    "priority": 9
+  },
+  {
+    "id": "4",
+    "name": "Hijri Hari Ini",
+    "subtitle": "Widget kalender hijriyah di layar utama android. Termasuk notifikasi hari besar islam.",
+    "packageName": "com.flagodna.hijridate",
+    "playStoreUrl": "market://details?id=com.flagodna.hijridate",
+    "imageUrl": "https://play-lh.googleusercontent.com/I-6OP4h6QYRd5bkER5J8fcV0Cji9A4unzgMScUc0ROkJEt1VRtTSaBVgCh5Md00SpOmlmn0WU0QTihVBTrc0bQ=s64-rw",
+    "category": "Prayer",
+    "priority": 9
+  }
+]
