@@ -1,0 +1,58 @@
+[
+  {
+    "name": "MTA ONE",
+    "id": "mtaone",
+    "link": "https://play.google.com/store/apps/details?id=com.flagodna.mtaoneversi2",
+    "imageUrl": "https://play-lh.googleusercontent.com/B8pw2dhYH0T00y2NHy-azJG0OodzCpet4UlIFfMSV5OtmCPeyQSaI4fi5yPJIDL4gGU=s64-rw",
+    "users": 18100,
+    "rating": 4.77
+  },
+  {
+    "name": "Hadis Ku",
+    "id": "hadisku",
+    "link": "https://play.google.com/store/apps/details?id=com.flagodna.hadisku",
+    "imageUrl": "https://play-lh.googleusercontent.com/GnOMgcv0KdC0VPmziw_nhT8S3MHtNwFiD0qg6oFgUUICSKH62FgVrqxC8_2cnOs03qGt=s64-rw",
+    "users": 23700,
+    "rating": 4.788
+  },
+  {
+    "name": "AmalanKu",
+    "id": "amalanku",
+    "link": "https://play.google.com/store/apps/details?id=com.flagodna.amalanku",
+    "imageUrl": "https://play-lh.googleusercontent.com/OEX4m2ev-W9474lCQFO_YaESuhENUTnjEf9aIbZqNL1RIBOAuHXK98tnelKXXotKAZkr7_Gkg3nRU5nZdea2ZA=s64-rw",
+    "users": 322,
+    "rating": 4.897
+  },
+  {
+    "name": "Fasti Quran",
+    "id": "fastiquran",
+    "link": "https://play.google.com/store/apps/details?id=com.flagodna.fastiquran",
+    "imageUrl": "https://play-lh.googleusercontent.com/dcNZr7J5hL3m-XsbFDDtLCWnvqxMgmw5SyQXIidUjIuujvJ3p3-x1VZnF97MYjsobOg=s64-rw",
+    "users": 300,
+    "rating": 4.72
+  },
+  {
+    "name": "Hijri Hari Ini",
+    "id": "hijridate",
+    "link": "https://play.google.com/store/apps/details?id=com.flagodna.hijridate",
+    "imageUrl": "https://play-lh.googleusercontent.com/I-6OP4h6QYRd5bkER5J8fcV0Cji9A4unzgMScUc0ROkJEt1VRtTSaBVgCh5Md00SpOmlmn0WU0QTihVBTrc0bQ=s64-rw",
+    "users": 337,
+    "rating": 4.994
+  },
+  {
+    "name": "Lens Browser",
+    "id": "lensbrowser",
+    "link": "https://play.google.com/store/apps/details?id=com.flagodna.lensbrowser",
+    "imageUrl": "https://play-lh.googleusercontent.com/aVZtzfMqE6wnLw9_Ix1kRkir2AVX2BgoATnzZs1B0GRU3mhvM2A_wUPTP2Q0pVarPXdWtxiAwxkW6RdW9BvUeSM=s64-rw",
+    "users": 524,
+    "rating": 3.444
+  },
+  {
+    "name": "Brosur MTA",
+    "id": "brosurmta",
+    "link": "https://play.google.com/store/apps/details?id=com.flagodna.brosurmta",
+    "imageUrl": "https://play-lh.googleusercontent.com/KoiQn3ePVE-MajrfG0ITX5sp_ebZpDsYGMW-ufZGlBkKiUd8g_SBB7PDhz1hibnBGSU=s64-rw",
+    "users": 13900,
+    "rating": 4.814
+  }
+]
