@@ -2,7 +2,7 @@
 
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)]()
+[![Version](https://img.shields.io/badge/Version-1.0.3-orange.svg)]()
 
 > **Daily Hijri Calendar Widget for Android** - Stay connected with the Islamic calendar right on your home screen
 
@@ -10,14 +10,32 @@
 
 Hijri Today is a beautiful and lightweight Android widget that displays the current Hijri (Islamic) date along with important Islamic events and Sunnah fasting reminders. Built with love for the Muslim Ummah.
 
+## 📋 Changelog
+
+### 1.0.3
+
+- ✨ **Feat:** Add configurable Hijri date offset (+1 / -1 adjustment)
+- 🌍 **Feat:** Add localization support for Malay (ms), Urdu (ur), Bengali (bn), Turkish (tr), Hausa (ha), Yoruba (yo), Somali (so), French (fr), Spanish (es), and Hindi (hi)
+- 🎨 **UI:** Update widget theme with dynamic color support
+- 🔧 **Fix:** Refactor widget system update logic for improved stability
+
+### 1.0.0
+
+- 🎉 Initial release
+- Daily Hijri date display with Islamic events & Sunnah fasting reminders
+- English, Indonesian, and Arabic support
+
+---
+
 ## ✨ Features
 
 ### 📅 Core Features
 
 - **Daily Hijri Date Display** - Accurate Islamic calendar dates
-- **Arabic Month Names** - Displayed in English, Indonesian, and Arabic
+- **Arabic Month Names** - Displayed in multiple languages
 - **Auto-Update System** - Refreshes twice daily at 6 PM and midnight
 - **Preview Mode** - See how your widget looks before adding it
+- **Hijri Date Offset** - Manually adjust the date by ±1 or ±2 days to match your local moon sighting authority
 
 ### 🕌 Islamic Events & Reminders
 
@@ -37,9 +55,21 @@ Hijri Today is a beautiful and lightweight Android widget that displays the curr
 
 ### 🌍 Multilingual Support
 
-- 🇬🇧 English
-- 🇮🇩 Indonesian (Bahasa Indonesia)
-- 🇸🇦 Arabic (العربية)
+| Language   | Code        | Region                     |
+| ---------- | ----------- | -------------------------- |
+| English    | `en`        | Global                     |
+| Arabic     | `ar`        | Middle East / North Africa |
+| Indonesian | `in` / `id` | Indonesia                  |
+| Malay      | `ms`        | Malaysia                   |
+| Urdu       | `ur`        | Pakistan                   |
+| Bengali    | `bn`        | Bangladesh / India         |
+| Hindi      | `hi`        | India                      |
+| Turkish    | `tr`        | Turkey                     |
+| Hausa      | `ha`        | Nigeria                    |
+| Yoruba     | `yo`        | Nigeria                    |
+| Somali     | `so`        | Somalia                    |
+| French     | `fr`        | West Africa                |
+| Spanish    | `es`        | USA / Latin America        |
 
 ## 💎 Why Hijri Today?
 
@@ -48,7 +78,7 @@ Hijri Today is a beautiful and lightweight Android widget that displays the curr
 📊 **No Analytics** - Your privacy is respected  
 ⚡ **Lightweight** - Minimal storage and battery usage  
 🔄 **Works Independently** - No need to open the app daily  
-🎨 **Beautiful Design** - Modern and elegant interface  
+🎨 **Beautiful Design** - Modern and elegant interface with dynamic color support  
 ❤️ **Open Source** - Transparent and community-driven
 
 ## 📲 Installation
@@ -67,6 +97,17 @@ Hijri Today is a beautiful and lightweight Android widget that displays the curr
 
 The widget will automatically start displaying the Hijri date and events!
 
+## 🗓️ Hijri Date Offset
+
+Since the Hijri calendar can vary by region depending on local moon sighting (ru'yah), you can manually adjust the displayed date to match your local Islamic authority:
+
+- Open the app settings
+- Tap **Hijri Date Adjustment**
+- Use **+** or **−** to shift the date (range: −2 to +2 days)
+- The adjustment applies to all date displays **and** Islamic event detection
+
+> _Example: If your country observes Eid one day later than the calculated date, set the offset to +1. All events and fasting reminders will shift accordingly._
+
 ## 🛠️ Technical Details
 
 ### Built With
@@ -74,7 +115,7 @@ The widget will automatically start displaying the Hijri date and events!
 - **Kotlin** - Modern Android development
 - **Jetpack Compose** - UI toolkit
 - **Glance API** - Widget framework
-- **Material Design 3** - Design system
+- **Material Design 3** - Design system with dynamic color
 
 ### Permissions Required
 
