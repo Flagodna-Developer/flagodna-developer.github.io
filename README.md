@@ -1,52 +1,47 @@
-# Welcome to FlagoDNA Developer Labs! 👋
+# PT FlagoDNA Developer Labs 👋
 
-Welcome to the official GitHub repository of **FlagoDNA Developer Labs**. Here, you’ll find a variety of projects, tools, and resources developed by our team. We focus on creating innovative solutions that serve technology, culture, and community growth.
+**FlagoDNA** is an independent ecosystem building intentional software and media.  
+We craft **high-utility tools** that respect privacy and focus on meaningful utility. ❤️ _Mlampah Ing Tresno_
 
-## About FlagoDNA
-
-**FlagoDNA Developer Labs** is dedicated to blending technology with societal impact. Our mission is to enhance the quality of life through advanced software solutions. We specialize in AI, mobile app development, web applications, and other tools that bridge the gap between digital transformation and real-world benefits.
-
-At **FlagoDNA**, we believe in creating tools that empower individuals and organizations to build better, more efficient systems—while staying aligned with their values and goals.
+> **Top 4 Startup in Indonesia (F6S) | 60,000+ Downloads | 15+ Apps Live**
 
 ---
 
-### Our Slogan
+## 🛠️ Our Ecosystem
 
-**MLAMPAH ING TRESNO**  
-_"Walking in Love, Building with Passion"_
+Our philosophy, **"Mlampah Ing Tresno"**, guides every project: craftsmanship, privacy, and intentional design.  
+We aim to create software and media that truly serve their users, without the noise of modern attention-driven apps.
 
-This represents our journey: combining **empathy and care** with **creativity and dedication** in every project we undertake.
-
----
-
-## 🧩 Our Latest Projects
-
-We're proud to showcase our latest developments. Here are some of the apps and tools we've built:
-
-| Project Name                 | Description                                                                                                                                                | Link                                                         |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| **Hadis Ku**                 | Complete Hadith application from 14 Imams. Offers features like full offline access, Sanad status verification, and more.                                  | [Detail](https://flagodna.com/project/hadis-ku/)             |
-| **AmalanKu**                 | Daily Good Deeds Tracker App, useful for self-reflection and maintaining consistency in becoming a better Muslim.                                          | [Detail](https://flagodna.com/project/amalan-ku/)            |
-| **Sheeply**                  | A collection of peaceful mini-games designed to help you relax, meditate, and relieve stress.                                                              | [Detail](https://flagodna.com/project/sheeply/)              |
-| **FastiQuran**               | Immerse yourself in the Holy Quran with beautifully designed, ad-free, multiple translations, bookmarking, and listening features—all free across devices. | [Detail](https://flagodna.com/project/fastiquran/)           |
-| **FastiShare**               | Lightweight, privacy-focused file-sharing tool to transfer files on the same local network without internet or cloud storage.                              | [Detail](https://github.com/flagodna-developer/FastiShare)   |
-| **FastiMic**                 | Free audio relay and playback application that streams microphone audio to any device over WiFi or USB.                                                    | [Detail](https://flagodna.com/project/fastimic/)             |
-| **MTA ONE**                  | All-in-one application for participating in MTA studies with diverse content.                                                                              | [Detail](https://flagodna.com/project/mta-one/)              |
-| **Brosur MTA Lengkap**       | Complete collection of MTA brochures from 1995 to the current year.                                                                                        | [Detail](https://flagodna.com/project/brosur-mta-lengkap/)   |
-| **TV Dakwah Islami**         | Comprehensive Islamic Da'wah TV platform for knowledge and spiritual growth.                                                                               | [Detail](https://flagodna.com/project/tv-dakwah-islami/)     |
-| **Jira Unofficial Desktop**  | Minimal Jira desktop wrapper built with Tauri for a distraction-free Jira experience.                                                                      | [Detail](https://github.com/cas8398/jira-desktop-unofficial) |
-| **WARP UI Unofficial Linux** | GUI wrapper for Cloudflare Warp CLI built with Python and Tkinter. Connect, disconnect, and check status easily.                                           | [Detail](https://github.com/cas8398/warp-ui-unofficial)      |
-| **SUKAMO**                   | Motivational word puzzle game with 3 sections, challenging players to arrange words for inspiration and personal growth.                                   | [Detail](https://flagodna.com/project/sukamo/)               |
-| _(More coming soon...)_      | Stay tuned for upcoming projects and tools!                                                                                                                |                                                              |
-
-> 💡 This list will grow as we continue to develop and release more open-source and closed-source projects.
-
-## Contact Us
-
-If you have any questions or would like to get in touch, feel free to open an issue or contact us directly through our [FlagoDNA website](https://flagodna.com).
+| Project                                                                             | Category     | Description / Impact                                                                                 |
+| :---------------------------------------------------------------------------------- | :----------- | :--------------------------------------------------------------------------------------------------- |
+| [**Hadis Ku**](https://flagodna.com/project/hadis-ku/)                              | Books & Ref  | A complete 14 Imam Hadith collection with verified Sanad chains. Ideal for scholars and learners.    |
+| [**AmalanKu**](https://flagodna.com/project/amalan-ku/)                             | Productivity | Private daily worship tracker. All data stays local; no ads, no trackers, designed for personal use. |
+| [**FastiQuran**](https://flagodna.com/project/fastiquran/)                          | Spiritual    | Ad-free, high-utility Quran reading experience. Works seamlessly across devices.                     |
+| [**Lens Browser**](https://play.google.com/store/apps/details?id=com.flagodna.lens) | Privacy      | Private web browsing with built-in AdBlock, no tracking, and offline-friendly features.              |
+| [**Sheeply**](https://flagodna.com/project/sheeply/)                                | Games        | Calm, minimalistic mini-games for stress relief and meditation breaks.                               |
+| [**MTA ONE**](https://flagodna.com/project/mta-one/)                                | Education    | Centralized platform for MTA studies, resources, and community media content.                        |
+| [**FastiShare**](https://github.com/flagodna-developer/FastiShare)                  | Utility      | Peer-to-peer local network file sharing. No cloud required; privacy-first design.                    |
+| [**Jira Unofficial**](https://github.com/cas8398/jira-desktop-unofficial)           | Tool         | Desktop wrapper for Jira built with Tauri. Minimal UI, distraction-free project management.          |
 
 ---
 
-Thank you for checking out FlagoDNA Developer Labs! 🌱🚀
+## 🌿 Why FlagoDNA?
 
-[Official Website](https://flagodna.com)
+- **Privacy-First:** Most apps require no registration and store data locally. Users retain full control.
+- **Intentional Design:** Tools built to help you focus and do meaningful work, avoiding the noise of attention economy apps.
+- **Independent Lab:** Fully self-funded and community-driven, enabling freedom to experiment with ideas that matter.
+
+---
+
+## 📬 Connect with Us
+
+- **Official Website:** [flagodna.com](https://flagodna.com)
+- **Founder Profile:** [Cahyanudien Aziz Saputra](https://www.cahyanudien.site)
+- **Email:** `superflagodna@gmail.com`
+
+---
+
+**❤️ MLAMPAH ING TRESNO**  
+_FlagoDNA: An independent ecosystem building intentional software & media._
+
+[Visit FlagoDNA](https://flagodna.com)
