@@ -1,0 +1,11 @@
+{
+  "show": true,
+  "title": "Pengumuman Penting",
+  "description": "Aplikasi telah diperbarui dengan fitur baru.",
+  "action": {
+    "label": "Lihat Update",
+    "url": "https://example.com/update"
+  },
+  "disable_close": false,
+  "type": "daily"
+}
