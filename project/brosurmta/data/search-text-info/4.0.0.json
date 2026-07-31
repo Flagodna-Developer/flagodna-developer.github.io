@@ -1,0 +1,10 @@
+{
+  "show": true,
+  "tips": "Gunakan satu kata kunci untuk hasil pencarian yang lebih akurat.",
+  "description": "Kini tersedia pencarian isi brosur untuk tahun 2026",
+  "show_action": false,
+  "action": {
+    "label": "Detail",
+    "url": "https://flagodna.com/brosur-mta/"
+  }
+}
