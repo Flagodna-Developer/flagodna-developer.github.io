@@ -1,0 +1,9 @@
+{
+  "limit": 5,
+  "description": "AI chat limit 5 kali sehari",
+  "show_action": false,
+  "action": {
+    "label": "Detail",
+    "url": "https://flagodna.com/brosur-mta/"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "show": true,
+  "description": "Selamat datang di aplikasi versi 4",
+  "show_action": false,
+  "action": {
+    "label": "Detail",
+    "url": "https://flagodna.com/brosur-mta/"
+  }
+}
