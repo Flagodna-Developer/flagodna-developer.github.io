@@ -1,14 +1,6 @@
-[
-  {
-    "image": "https://flagodna-developer.github.io/data/icon/48/donate.png",
-    "open_link": true,
-    "link": "https://dukung.flagodna.com/?lang=id",
-    "text": "Aplikasi ini gratis selamanya karena Allah. Jika bermanfaat, sedekah Rp 10K-an bantu server tetap hidup untuk ribuan pengguna lain. 🤲"
-  },
-  {
-    "image": "https://cdn.flagodna.com/image/mtaone/icon/info.png",
-    "open_link": true,
-    "link": "https://tiketea.flagodna.com/f/f6fe7481-fd84-4f27-aee5-cae0be54c2c8?lang=id",
-    "text": "Punya saran, masukan atau laporan masalah? beritahu kami."
-  }
-]
+{
+  "image": "https://flagodna-developer.github.io/data/icon/48/update.png",
+  "open_link": "true",
+  "link": "https://play.google.com/store/apps/details?id=com.flagodna.brosurmta",
+  "text": "🎉 Versi 4 kini tersedia. Klik di sini untuk memperbarui aplikasi di Play Store 📲"
+}
